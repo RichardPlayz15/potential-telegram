@@ -1,2 +1,5 @@
-# potential-telegram
-This is a project for beginner coders who want to try to code something.
+💫 About Me:
+🔭 I’m currently working on Many Projects
+🤝 I’m looking for help with Crypto Minning Software
+📫 How to reach me Discord: thund3rd3v
+🌐 Socials:
